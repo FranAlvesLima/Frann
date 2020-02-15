@@ -1,4 +1,4 @@
-baseURL = "ecstatic-wozniak-594f4e.netlify.com"
+baseURL = "https://ecstatic-wozniak-594f4e.netlify.com"
 languageCode = "pt-br"
 title = "Fran Alves"
 theme = "noteworthy"
